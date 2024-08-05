@@ -5,7 +5,7 @@ package GarbageCollection;
 
 
 //Try_With Resource
-//it is mechanism used to handle resources which are getting closed automatically after end this block
+//it is mechanism used to handle resources which are getting closed automatically after end of this block
 class Test_{
     public static void main(String[] args) {
 
