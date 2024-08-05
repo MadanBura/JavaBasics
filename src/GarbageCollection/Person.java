@@ -21,7 +21,6 @@ class Test {
         }
 
         System.out.println("End of main method.");
-
     }
 }
 
