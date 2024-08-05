@@ -3,7 +3,6 @@ package GarbageCollection;
 //The AutoCloseable interface in Java is part of the java.lang package
 // and provides a way to ensure that resources are closed automatically when they are no longer needed.
 
-
 //Try_With Resource
 //it is mechanism used to handle resources which are getting closed automatically after end of this block
 class Test_{
