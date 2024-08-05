@@ -4,8 +4,8 @@ class Test {
 
     public static void main(String args[]) {
 
-        Person p = new Person("Madan");
-        Person p1 = new Person("Madan");
+        Person p = new Person("Malay");
+        Person p1 = new Person("Malay");
 
         p = null;
         p1 = null;
