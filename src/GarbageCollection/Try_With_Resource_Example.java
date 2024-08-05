@@ -20,10 +20,6 @@ class Test_{
         }
 
         System.out.println("End of the method >> ");
-
-
-
-
     }
 }
 
