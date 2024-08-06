@@ -1,7 +1,5 @@
 package OOP_Concepts.Abstraction;
 
-import javax.xml.transform.Source;
-
     public abstract class BankAccount  {
 
         protected long account_Number;
