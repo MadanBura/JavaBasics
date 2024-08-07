@@ -105,7 +105,7 @@ public class HotelApplicationDemo {
 
         // Sample rooms
         Rooms singleBed = new Rooms(1001, "Single-Bed", 2000, true);
-        Rooms doubleBed = new Rooms(1002, "Double-Bed", 3600, false);
+        Rooms doubleBed = new Rooms(1002, "Double-Bed", 3600, true);
 
         hotel.addRoom(singleBed);
         hotel.addRoom(doubleBed);
